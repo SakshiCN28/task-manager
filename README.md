@@ -59,7 +59,7 @@ Open: http://localhost:3000
 
 ## 👤 Author
 
-Sakshi
+Sakshi Nagaraj
 
 ---
 
